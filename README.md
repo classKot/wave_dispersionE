@@ -13,5 +13,8 @@ L：波长(m)
 L = ((g*math.pow(T,2))/(2*math.pi))*math.tanh((2*math.pi*h)/L)
 
 
-教科书上的原方法：
+教科书上的原方法(original method)： 
+
+
+wave_dispersionE/original/o_de_fig1.png 
 
