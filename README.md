@@ -77,5 +77,7 @@ h = 16\
   
   若要精确度在小数点后两位的话，只需要迭代7次，大大减少工作量
   
+  ![error](https://github.com/classKot/wave_dispersionE/blob/master/improved/i_de_fig1.png)
+  
   从图像上看，L值呈指数收敛，更快趋近于精确值。
 
